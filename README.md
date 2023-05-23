@@ -15,5 +15,5 @@ Clone the repository and install the requirements using the terminal.
 
 Run 🍏 Statusbar 🍅 in the background by opening the terminal and execute the following command.
 
-```python3 menubar-pomodoro.py &```
+```python3 statusbar-pomodoro.py &```
 
